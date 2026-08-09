@@ -1,0 +1,9 @@
+{
+  "host": "MoreThanBrotherKMR.aternos.me",
+  "port": 44659,
+  "username": "AFK_Bot",
+  "version": false,
+  "auth": "offline",
+  "reconnectDelaySeconds": 15,
+  "moveIntervalSeconds": 45
+}
