@@ -1,7 +1,7 @@
 {
   "host": "morwong.aternos.host",
 
-  "port": 44659,
+  "port": "44659",
   "username": "AFK_Bot",
   "version": "1.21.11",
   "auth": "offline",
