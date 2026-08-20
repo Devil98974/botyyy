@@ -3,7 +3,7 @@
 
   "port": 44659,
   "username": "AFK_Bot",
-  "version": 1.21.11,
+  "version": "1.21.11",
   "auth": "offline",
   "reconnectDelaySeconds": 15,
   "moveIntervalSeconds": 45
