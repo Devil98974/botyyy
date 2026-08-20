@@ -6,5 +6,5 @@
   "version": "1.21.11",
   "auth": "offline",
   "reconnectDelaySeconds": 15,
-  "moveIntervalSeconds": 45
+  "moveIntervalSeconds": 46
 }
